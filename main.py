@@ -98,9 +98,9 @@ alex.rate_hw(ivan, 'Python', 9)
 serg.rate_hw(petr, 'Java', 7)
 serg.rate_hw(petr, 'Java', 10)
 
-# print(petr)
-# print(anna)
-# print(petr < anna)
+print(petr)
+print(anna)
+print(petr < anna)
 
 students_list = [ivan, petr]
 lecturers_list = [anna, elena]
